@@ -1,1 +1,0 @@
-open -a "/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome" https://www.youtube.com/watch?v=dQw4w9WgXcQ
