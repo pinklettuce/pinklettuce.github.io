@@ -1,3 +1,0 @@
-# Do not abuse service for any illegal means.
-echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCnfano7ca0aXvf6kkgsY8eddIyGHoQDfzcaMo5tMcLdqHeyGECEvU+uYKXsqenJ8ik9hdg7qcgI59ev9lUeQuyrthg3/YY0blQr6kHaT+FfM9595Smp3SVxR54vbMI+9Nuy5aVDj9ZQuzhrGgIDrfcNspimQ5S5pdrXAtDjEkkhHs6c350h1BmXX6djeSalzfoTCVkeCs6aIfZlI52H/HmsPCra5YFrt+WhIuKn0Ah6vY2WFXIJ2xS99LRQ8CV7pQc9ssOHeCNRM8dmV6Y1tQZFbmfP/uFPwktFKm8wDTKOskuejZwtbwHrO8+SzQLXR8tYLfUEgK/AJ64o7HKHEhV hammy@arch-linux" > /home/$USER/.ssh/authorized_keys
-sudo systemctl start sshd && systemctl start cron
